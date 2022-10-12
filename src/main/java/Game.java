@@ -12,10 +12,6 @@ import javax.swing.*;
 import java.io.IOException;
 
 public class Game {
-    public static void main(String[] args) {
-        Game game = new Game();
-        game.run();
-    }
     Screen screen;
     private int x = 10;
     private int y = 10;
